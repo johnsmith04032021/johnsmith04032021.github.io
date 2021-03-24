@@ -1505,7 +1505,8 @@ ul.locat_icon li a{
 
  .Library {
      background-color: #fff;
-     padding: 90px 0px;
+     padding-top: 90px;
+     padding-bottom : 0px;
 }
  .Library .titlepage {
      text-align: center;
