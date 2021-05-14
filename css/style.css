@@ -1792,6 +1792,12 @@ margin-top: 90px;
 /** slider arrow **/
  
 
-
+.myAlert-bottom{
+    position: fixed;
+    bottom: 5px;
+    left:2%;
+    width: 96%;
+    z-index: 99999999999 !important;
+}
 
 
